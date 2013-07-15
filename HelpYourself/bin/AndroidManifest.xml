@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.helpyourself"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="11"
+        android:targetSdkVersion="17" />
+    <supports-screens 
+        android:resizeable="true"
+        android:largeScreens="true"
+        android:normalScreens="true"
+        android:anyDensity="true" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/Holo.Light" >
+        <activity
+            android:name="com.example.helpyourself.MainActivity"
+               android:configChanges="orientation|screenSize|keyboardHidden"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        
+         <activity
+            android:name="com.example.helpyourself.Activity0"></activity>
+        <activity
+            android:name="com.example.helpyourself.Activity00"></activity>
+        <activity
+            android:name="com.example.helpyourself.Activity01"></activity>
+        <activity
+            android:name="com.example.helpyourself.Activity02"></activity>
+        <activity
+            android:name="com.example.helpyourself.Activity03"></activity>
+        <activity
+            android:name="com.example.helpyourself.Activity04"></activity>
+        <activity
+            android:name="com.example.helpyourself.Activity05"></activity>
+        <activity
+            android:name="com.example.helpyourself.Activity06"></activity>
+        <activity
+            android:name="com.example.helpyourself.Activity07"></activity>
+        <activity
+            android:name="com.example.helpyourself.Activity08"></activity>
+        <activity
+            android:name="com.example.helpyourself.Activity09"></activity>
+        <activity
+            android:name="com.example.helpyourself.Activity10"></activity>
+        <activity
+            android:name="com.example.helpyourself.Activity11"></activity>
+        
+        <activity
+            android:name="com.example.helpyourself.Activity12"></activity>
+        <activity
+            android:name="com.example.helpyourself.Activity13"></activity>
+        <activity
+            android:name="com.example.helpyourself.Activity14"></activity>
+        
+         <activity
+            android:name="com.example.helpyourself.CustomTitleBar"></activity>
+         
+    </application>
+
+</manifest>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="fill_parent">
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/back"
+    android:orientation="vertical" >
+
+<TextView
+        android:id="@+id/Title1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+         android:paddingStart="10dp"
+         android:paddingEnd="10dp"
+        android:layout_marginLeft="120dp"
+        android:layout_marginTop="15dp"
+        android:textColor="#000000"
+       android:textSize="20sp"
+         android:text="@string/Title1" />
+<TextView
+        android:id="@+id/Detail1"
+        android:layout_width="match_parent"
+        android:layout_height="138dp"
+        android:layout_marginTop="10dp"
+         android:paddingStart="10dp"
+         android:paddingEnd="10dp"
+        android:textColor="#242731"
+        android:textSize="16sp"
+        android:text="@string/Detail1" />
+<TextView
+        android:id="@+id/Titleq0"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+         android:paddingStart="10dp"
+         android:paddingEnd="10dp"
+        android:layout_marginTop="10dp"
+         android:layout_marginLeft="10dp"
+        android:textColor="#242731"
+        android:textSize="18sp"
+        android:text="@string/Titleq0"/>
+<Button
+        android:id="@+id/button10"
+        style="?android:attr/borderlessButtonStyle"
+         android:paddingStart="10dp"
+         android:paddingEnd="10dp"
+        android:layout_width="fill_parent"
+         android:layout_marginBottom="4dp"
+        android:layout_height="wrap_content"
+        android:onClick="onButtonClicked10"
+        android:textSize="16sp"
+        android:text="@string/Q10" />
+<TextView
+        android:id="@+id/textview10"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+         android:paddingStart="10dp"
+         android:paddingEnd="10dp"
+         android:layout_marginBottom="4dp"
+        android:textColor="#707070"
+        android:text="@string/A10"
+        android:textSize="14sp"
+        android:visibility="invisible" />
+</LinearLayout>
+</ScrollView>

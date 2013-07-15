@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="fill_parent">
+<LinearLayout 
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical" 
+      android:background="@drawable/back">
+      <TextView
+        android:id="@+id/Title8"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingStart="10dp"
+         android:paddingEnd="10dp"
+        android:layout_marginLeft="135dp"
+        android:layout_marginTop="15dp"
+        android:textColor="#000000"
+         android:textSize="20sp"
+        android:text="@string/Title8" />
+    <TextView
+        android:id="@+id/Detail8"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingStart="10dp"
+         android:paddingEnd="10dp"
+        android:layout_marginTop="10dp"
+        android:textColor="#242731"
+        android:textSize="16sp"
+        android:text="@string/Detail8" />
+       <TextView
+        android:id="@+id/Detail80"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingStart="10dp"
+         android:paddingEnd="10dp"
+        android:textColor="#707070"
+        android:textSize="14sp"
+        android:text="@string/Detail80" />
+       <TextView
+        android:id="@+id/Detail81"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:textColor="#242731"
+        android:textSize="16sp"
+        android:paddingStart="10dp"
+         android:paddingEnd="10dp"
+        android:text="@string/Detail81" />
+       <TextView
+        android:id="@+id/Detail82"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#707070"
+        android:textSize="14sp"
+        android:paddingStart="10dp"
+         android:paddingEnd="10dp"
+        android:text="@string/Detail82" />
+       <TextView
+        android:id="@+id/Detail83"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:textColor="#242731"
+        android:textSize="16sp"
+        android:paddingStart="10dp"
+         android:paddingEnd="10dp"
+        android:text="@string/Detail83" />
+       <TextView
+        android:id="@+id/Titleq0"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+         android:layout_marginLeft="10dp"
+        android:textColor="#242731"
+        android:textSize="18sp" 
+        android:paddingStart="10dp"
+         android:paddingEnd="10dp"
+        android:text="@string/Titleq0"/>
+<Button
+        android:id="@+id/button83"
+        style="?android:attr/borderlessButtonStyle"
+        android:layout_width="fill_parent"
+         android:layout_height="48dp"
+        android:layout_marginBottom="4dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="0dp"
+        android:paddingStart="10dp"
+         android:paddingEnd="10dp"
+        android:onClick="onButtonClicked83"
+        android:textSize="16sp"
+        android:text="@string/Q83" />
+<TextView
+        android:id="@+id/textview83"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingStart="10dp"
+         android:paddingEnd="10dp"
+         android:layout_marginBottom="4dp"
+        android:textColor="#707070"
+        android:text="@string/A83"
+        android:textSize="14sp"
+        android:visibility="invisible" />
+    <Button
+        android:id="@+id/button81"
+        style="?android:attr/borderlessButtonStyle"
+        android:layout_width="fill_parent"
+        android:layout_height="48dp"
+         android:layout_marginBottom="4dp"
+         android:paddingStart="10dp"
+         android:paddingEnd="10dp"
+        android:layout_marginLeft="-5dp"
+        android:onClick="onButtonClicked81"
+        android:textSize="16sp"
+        android:text="@string/Q81" />
+<TextView
+        android:id="@+id/textview81"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingStart="10dp"
+         android:paddingEnd="10dp"
+         android:layout_marginBottom="4dp"
+        android:textColor="#707070"
+        android:text="@string/A81"
+        android:textSize="14sp"
+        android:visibility="invisible" />
+    <Button
+        android:id="@+id/button82"
+        style="?android:attr/borderlessButtonStyle"
+        android:layout_width="fill_parent"
+         android:layout_height="wrap_content"
+         android:paddingStart="10dp"
+         android:paddingEnd="10dp"
+        android:layout_marginLeft="5dp"
+         android:layout_marginBottom="4dp"
+        android:onClick="onButtonClicked82"
+        android:textSize="16sp"
+        android:text="@string/Q82" />
+<TextView
+        android:id="@+id/textview82"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingStart="10dp"
+         android:paddingEnd="10dp"
+         android:layout_marginBottom="4dp"
+        android:textColor="#707070"
+        android:text="@string/A82"
+        android:textSize="14sp"
+        android:visibility="invisible" />
+    <Button
+        android:id="@+id/button80"
+        style="?android:attr/borderlessButtonStyle"
+        android:paddingStart="10dp"
+         android:paddingEnd="10dp"
+        android:layout_width="fill_parent"
+         android:layout_marginBottom="4dp"
+          android:layout_height="wrap_content"
+        android:onClick="onButtonClicked80"
+        android:textSize="16sp"
+        android:text="@string/Q80" />
+<TextView
+        android:id="@+id/textview80"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingStart="10dp"
+         android:paddingEnd="10dp"
+         android:layout_marginBottom="4dp"
+        android:textColor="#707070"
+        android:text="@string/A80"
+        android:textSize="14sp"
+        android:visibility="invisible" />
+</LinearLayout>
+</ScrollView>

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <string name="app_name">Help Yourself</string>
+    <string name="action_settings">Settings</string>
+     <string name="menu_settings">Settings</string>
+    <string name="TODO">TODO</string>
+    <string name="title">Help Yourself</string>
+    
+    <string name="Title0">Dog Bites</string>
+    <string name="Detail0">1. Place a clean towel over the injury to stop any bleeding.&#xA;\n2. Try to keep the injured area elevated.&#xA;\n3. Wash the bite carefully with soap and water.&#xA;\n4. Apply a sterile bandage to the wound.&#xA;\n5. Apply antibiotic ointment to the injury every day to prevent infection.&#xA;\n6.You must visit the doctor for further treatment.&#xA;\nCall : Indian Red Cross Society\nTel: (+91-11) 23716441/2/3</string>
+<string name="Q00">How do I know when to go to hospital?</string>
+      <string name="A00">Although you can provide first aid for a dog bite at home, it is very important to see a doctor, especially if an unfamiliar dog bit you, the bite is deep, you cannot stop the bleeding, or there are any signs of infection (redness, swelling, warmth, pus). Dog bites can cause infections that need to be treated with antibiotics.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n</string>
+    
+    <string name="Title1">Fractures</string>
+    <string name="Detail1">1. Prevent unnecessary movement of the injured part and try supporting it.&#xA;\n2. If the injured area seems too painful, call nearest hospital.&#xA;\nCall : Indian Red Cross Society\nTel: (+91-11) 23716441/2/3</string>
+    
+    <string name="Titleq0">Q&amp;As</string>
+    <string name="Q10">How can I tell if someone has a broken bone?</string>
+      <string name="A10">The person may have bruise, pain and swelling on that part. In extreme cases, person may have an open wound or the limb may be misshapen.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n</string>
+      
+      <string name="Title2">Earthquake</string>
+   <string name="Detail2">1. Check yourself for injuries. Administer first aid or try to get help from others nearby if necessary.</string>
+<string name="Detail20">Keep a special eye out for those who might not be able to help themselves, like the elderly, disabled, infants and children.Do not move the severely injured unless it is absolutely necessary. Wait for paramedics or other people with knowledge to help. However, it is helpful to remain with someone for reassurance and comfort; stories of survivors in quake zones reveal that people who had their hands held or were spoken to constantly found greater strength to draw on to survive than those left alone.</string>
+<string name="Detail21">2. Evaluate your immediate location for safety.</string>
+<string name="Detail22">As earthquake can give rise to further calamities like - Tsunami, Electrical hazards, Contaminated water, etc.</string>
+<string name="Detail23">3. Listen to an emergency radio or use a battery-powered television to receive the latest emergency information any instructions available.</string>
+<string name="Detail24">4. Check your landline telephone for a dial tone, and your cellular phone for a signal.</string>
+<string name="Detail25">If you can access Twitter, it can be one very fast and useful way to send out a message that you are okay, to ask people to contact family members for you, to ask for accommodation or other help, etc.</string>
+<string name="Detail26">5. Stay out of and away from damaged buildings.</string>
+<string name="Detail27">6. Pay attention to aftershocks.</string>
+<string name="Detail28">Large earthquakes are often followed by smaller quakes that may happen minutes, hours, days, or even months after the first large earthquake. Treat each aftershock as a fresh quake in terms of safety and reevaluate your surroundings for safety after every large one.&#xA;\nCall : Indian Red Cross Society\nTel: (+91-11) 23716441/2/3\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n</string>
+    
+    <string name="Title3">Bleeding</string>
+    <string name="Detail3">1. To stop or slow down blood flow, apply pressure on the wound.This will help the blood clot and stop the bleeding.&#xA;\n2. If the bleeding is severe, call the nearest hospital as soon as possible or get someone to do it for you.\nCall : Indian Red Cross Society\nTel: (+91-11) 23716441/2/3&#xA;\nKeep pressure on the wound until help arrives.</string>
+<string name="Q30">What can I use to put pressure on the wound?</string>
+    <string name="A30">Use anything available to you - towel, t-shirts, etc. It just needs to be clean so as to prevent infection.</string>
+        <string name="Q31">    Should I wash the wound ?</string>
+    <string name="A31">For minor cuts and grazes, you can wash the wound to remove any dirt. Do not wash a wound that is bleeding heavily as you may wash away all the clotting agents and make it bleed more.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n</string>
+ <string name="Title4">Bomb Blast</string>
+<string name="Detail4">1. Try to gain as much distance as possible from ground zero. The explosion moves outward radially, so even a small increase in distance greatly dissipates the impact.&#xA;&#xA;\n2. You can reflect much of the initial flash if you cover yourself with white or reflective clothing or material. Much of the initial radiation is in the form of visible light.&#xA;&#xA;\n3. The thermal wave, which arrives after the initial flash, can be incredibly hot. You will want to seek a heat resistant location, out of direct line of sight of the blast. Options might include a basement, behind a hill or even in a trench or pit in the ground.&#xA;\nCall : Indian Red Cross Society\nTel: (+91-11) 23716441/2/3\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n</string>
+    
+<string name="Title5">Electric Shocks</string>
+    <string name="Detail5">1. Separate the Person From Current\&apos;s Source</string>
+<string name="Detail50">To turn off power:&#xA;\nUnplug an appliance if plug is undamaged or shut off power via circuit breaker, fuse box, or outside switch.
+If you cannot turn off power:&#xA;\nStand on something dry and non-conductive, such as dry newspapers, telephone book, or wooden board.</string>
+<string name="Detail51">2. Try to separate the person from current using non-conductive object such as wooden or plastic broom handle, chair, or rubber doormat.</string>
+<string name="Detail52">If high voltage lines are involved:&#xA;\nThe local power company must shut them off.</string>
+<string name="Detail53">3. Do CPR, if Necessary.</string>
+<string name="Detail54">4. Check for Other Injuries.</string>
+<string name="Detail55">If the person is bleeding, apply pressure and elevate the wound if it is in an arm or leg.There may be a fracture if the shock caused the person to fall.&#xA;\nFor burns, see Burn Treatment.</string>
+<string name="Detail56">5. Call the nearest hospital as soon as possible or get someone to do it for you.\nCall : Indian Red Cross Society\nTel: (+91-11) 23716441/2/3\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n</string>
+<string name="Title6">Floods</string>
+<string name="Detail6">DURING THE FLOOD:</string>
+<string name="Detail60">1. Avoid areas subject to sudden flooding.&#xA;\n2. Do not attempt to cross rivers of flowing streams where water is above the knee.&#xA;\n3. Beware of water-covered roads and bridges.&#xA;\n4. Avoid unnecessary exposure to the elements.&#xA;\n5. Do not go after the victim!&#xA;\nUse a floatation device. \nIf possible throw the victim something to help them float, such as a spare tire, large ball, or foam ice chest.&#xA;\n6. Eat only well-cooked food. Protect leftovers against contamination.&#xA;\n7. Drink clean or preferably boiled water only.</string>
+<string name="Detail61">AFTER THE FLOOD:</string>
+<string name="Detail62">1. Re-enter the dwellings with caution using flashlights, not lanterns or torchers.&#xA;\nFlammables may be inside.&#xA;\n2. Be alert for fire hazards like broken wires.&#xA;\n3. Do not eat food and drink water until they have been checked for flood water contamination.&#xA;\n4. Report broken utility lines (electricity, water, gas and telephone) to appropriate agencies authorities.&#xA;\n5. Do not turn on the main switch or use appliances and other equipment until they have been checked by a competent electrician.&#xA;\n6. Consult health authorities for immunization requirements.&#xA;\nCall : Indian Red Cross Society\nTel: (+91-11) 23716441/2/3\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n</string>
+ <string name="Title7">Gas Leakage</string>
+    <string name="Detail7">1. Put out all flames immediately.&#xA;\n2. Open all windows and doors and air out properly.&#xA;\n3. Turn off all gas valves, or even the main gas valve.&#xA;\n4. Do not use open fire (matches, lighters, candles, and such like).&#xA;\n5. Do not smoke.&#xA;\n6. Do not use electrical appliances and do not handle them.&#xA;\n7. Do not use electric doorbells and do not make phone calls.&#xA;\n8. Do not panic, warn other housemates and leave the house calmly, and help the disabled ones.&#xA;\n9. Report it to the emergency and breakdown service of your natural gas provider (make your phone calls out of the house affected by gas leakage).&#xA;\n10. Call the nearest hospital as soon as possible or get someone to do it for you.&#xA;\nCall : Indian Red Cross Society\nTel: (+91-11) 23716441/2/3\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n</string>
+<string name="Title8">Burns</string>
+    <string name="Detail8">1. Cool the burn under running water for atleast ten minutes.</string>
+       <string name="Detail80"> Cooling the burn will help reduce pain, swelling and the risk of scarring. The faster  and longer a burnis cooled, the last the impact of the injury.</string>
+       <string name="Detail81">2. If the burn requires further medical care, loosely cover the burn with plastic wrap or a clean plastic bag. </string>
+           <string name="Detail82">This is because plastic is an ideal covering and does not stick to the burn and keeps air away from the skin\&apos;s surface.</string>
+           <string name="Detail83">3. If necessary, contact the nearest hospital as soon as possible or get someone to do it for you.&#xA;\nCall : Indian Red Cross Society\nTel: (+91-11) 23716441/2/3</string>
+<string name="Q80">Should I put butter or cream on a burn?  I have heard it will help.</string>
+<string name="A80">No. Butter does not cool the area. All oils retain heat, which is the opposite of what you are trying to achieve. If you put anything on the burn and if later it has to be removed  at the hospital, then it may inflict further pain and damage.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n</string>
+<string name="Q81">Should I use ice to cool the burn?</string>
+<string name="A81">No - use water. Ice may further damage the skin.</string>
+<string name="Q82">If clothes are stuck to the burn, should I try to remove it?</string>
+<string name="A82">No. Remove any clothing or jewellery near the burned area, but do not try to remove anything that\&apos;s stuck to the burn.This could cause more damage.</string>
+<string name="Q83">How do I know when to go to hospital?</string>
+<string name="A83">You should go to hospital if the burns affect more than one area of the body, or if the underlying tissues are visible.</string>
+    
+<string name="Title9">Heart attack</string>
+    <string name="Detail9">1. The person may have persistent chestpain, or isolated unexplained discomfort in arms, neck, jaw back, or stomach.&#xA;\nThis pain is caused due to blockage  of the blood supply to a heart muscle, and the pain will not ease with rest.&#xA;\n2. Time is of essence, so contact the nearest hospital as soon as possible or get someone to do it for you to seek medical assistance.&#xA;\nCall : Indian Red Cross Society\nTel: (+91-11) 23716441/2/3&#xA;3. Give them aspirin, as long as they are not allergic. The best is one not enteric(coated).&#xA;\n4. Make sure they are in a comfortable position ( e.g. leaning against the wall or sitting on the floor ).&#xA;\n5. Give them constant reassurance while waiting for the ambulance.</string>
+    <string name="Q90">How can I tell if someone is having a heart attack?</string>
+<string name="A90">The symptoms of a heart attack can vary but may include:\n- chest pain-breathlessness\n- feeling unwell\n- sweating.</string>
+<string name="Q91">What is the difference between heart attack and cardiac arrest?</string>
+<string name="A91">A heart attack is caused due to blockage  of the blood supply to a heart muscle whereas, a cardiac arrest is when the heart stops completely, causing the person to collapse, lose unconsciousness and stop breathing. It may be caused due to a heart attack.</string>
+<string name="Q92">What is angina?</string>
+<string name="A92">Angina is a tight feeling in the chest. It occurs when the body is unable to provide enough blood for the demand of the heart because the arteries supplying the heart have narrowed. It is often associated with exercise or excitement and can be managed  with medication.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n</string>
+
+<string name="Title10">Accidents</string>
+    <string name="Detail10">1. Turn off the ignition of any car involved and  put on the handbrake.&#xA;\n2. Do not touch a car or casualties, if they are in contact with live electric cables; contact the electricity supply authority if necessary.&#xA;\n3. Check for any flammable liquids such as petrol and remember not to smoke. Also, do not smash the car windows to help the trapped people inside unless they are protected from the glass.&#xA;\n4. Remember to treat any unconscious person first : check for breathing and pulse, and begin resuscitation if needed. Look out for bleeding too.&#xA;\n5. Send for help as soon as possible. Ask somone to ring  for the police, ambulance and, if necessary electricity supply authority.&#xA;\nCall : Indian Red Cross Society\nTel: (+91-11) 23716441/2/3\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n</string> 
+    <string name="Title11">Snake bites</string>
+    <string name="Detail11">1. Call for emergency assistance immediately if some one has been bitten by a snake.&#xA;\nCall : Indian Red Cross Society&#xA;\nTel: (+91-11) 23716441/2/3&#xA;\n2. Wash the bite with soap and water and cover it with a moist dressing. Remember to keep the bitten area lower than the heart.&#xA;\n3. If a victim is unable to get medical help within  30 minutes then, the American Red Cross recommends - &#xA;\n4. Apply a bandage, wrapped two to four inches above the bite, to help slow the venom.&#xA;\nThis should not cut off the flow of blood from a vein or artery - the band should be loose enough to slip a finger under it.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n</string>
+ <string name="Title13">Tsunami</string>
+    <string name="Detail13">BEFORE AND DURING A TSUNAMI</string>
+ <string name="Detail130"> 1. Know your local community\&apos;s suggested evacuation routes to safe areas, where shelter can be provided while you await the "all clear".&#xA;\n2. Be prepared to survive on your own for at least three days. To do this, you should prepare an emergency kit for your home and car, along with a portable one.&#xA;\n3. Consider taking a first aid course and learn survival skills.&#xA;\n4. Tune to a radio station that serves your area and listen for instructions from emergency officials. Follow these instructions and wait for the "all clear" before returning to the coast.&#xA;\n5. Stay away from the beach – do not go down to watch a tsunami come.&#xA;\n6. Move inland to higher ground immediately and stay there.&#xA;\n7. If there is a noticeable recession in the water away from the shoreline, this is considered “nature’s tsunami warning” and you should move away immediately.</string>   
+ <string name="Detail131">AFTER A TSUNAMI</string> 
+ <string name="Detail132">1. Stay away from flooded and damaged areas until officials say it is safe to go back.&#xA;\n2. Stay away from debris in the water – it could cause health and safety risks.&#xA;\n3. Save yourself first, not your possessions.&#xA;\n4. Help injured or trapped people – give first aid where appropriate.&#xA;\n5. Do not move seriously injured persons unless they are in immediate danger or further injury.&#xA;\n6. Help a neighbor who may require special assistance, like elderly people or small children or people with disabilities.&#xA;\n7. Stay out of the building if water remains around it – tsunami waters, like flood waters, can cause buildings to sink and collapse.&#xA;\n8. Check food supplies – any food that has come in contact with flood waters should be thrown out because it may be contaminated.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n</string> 
+ <string name="Title14">Elevator Breakdowns</string>
+    <string name="Detail14">1. If you become trapped in an elevator, use the emergency telephone within the elevator car.&#xA;\n2. Remain calm.&#xA;\nAssist in keeping occupants calm and wait for help to arrive.&#xA;\n3. Do not try to force open an elevator door.&#xA;\n4. Do not crawl out of an elevator without assistance from authorized personnel.&#xA;\n5.  If you are not inside the elevator but hear a problem or a person in need of help, please take the following actions:&#xA;\n6. Try calling the nearest police for help.&#xA;\nGive the police dispatcher the following information:&#xA;\n-  Name of building&#xA;\n-  Location within the building of malfunctioning elevator&#xA;\n- Where the car is stopped, if known&#xA;\n- Whether a medical emergency exists&#xA;\nBefore you hang up, make sure the dispatcher has all the information they need.&#xA;\n7. Keep the occupants calm and wait for help to arrive.&#xA;\n8. In case, building is on fire, NEVER EVER travel through a lift.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n</string>
+<string name="Title12">Choking</string>
+    <string name="Detail12">1. Hit them firmly on their back between the shoulder blades five times to dislodge the object and then give 5 quick abdominal thrusts. \n2. Call the nearest hospital as soon as possible or get someone to do it for you.\nCall : Indian Red Cross Society&#xA;\nTel: (+91-11) 23716441/2/3</string>
+    <string name="Q120">How do I administer abdominal thrusts ?</string>
+        <string name="A120">Stand behind the choking victim, join your hands around their tummy and form a fist. Pull your hands sharply inwards and upwards. Repeat up to five times. This is also called the Heimlich maneuver. Don \&apos;t attempt this technique on a child under one year old.</string>
+            <string name="Q121">Do I treat a child who is choking the same as an adult ?</string>
+                <string name="A121">Yes. A combination of back blows followed by 5 abdominal thrusts provides an effective way to clear the airway obstruction for children, as well as adults. Do not hang a child upside down by their feet to dislodge the object. This is not effective and may cause further injury if you happen to drop them. </string>
+                    <string name="Q122">How do I treat a baby who is choking ?</string>
+                        <string name="A122">For infants(under 1 year old), keep their heads lower than the chest, supporting their head and neck. Then give 5 back blows between the shoulder blades and 5 chest thrusts, center of chest just below the nipple line. Repeat this until the object is forced out or the infant can be heard to cry.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+                             </string>
+    
+</resources>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

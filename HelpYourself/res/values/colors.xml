@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>   
+    <color name="titlebackgroundcolor">#FE0077</color>
+    <color name="titletextcolor">#ff000000</color>
+     <drawable name="screen_background_light">#ffffffff</drawable>
+</resources>

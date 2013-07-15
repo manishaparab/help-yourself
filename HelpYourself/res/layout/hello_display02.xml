@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="fill_parent">
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/back"
+    android:orientation="vertical" >
+<TextView
+        android:id="@+id/Title2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+         android:paddingStart="10dp"
+         android:paddingEnd="10dp"
+        android:layout_marginLeft="110dp"
+        android:layout_marginTop="15dp"
+        android:text="@string/Title2"
+        android:textColor="#000000"
+        android:textSize="20sp" />
+    <TextView
+        android:id="@+id/Detail2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+         android:paddingStart="10dp"
+         android:paddingEnd="10dp"
+        android:layout_marginTop="10dp"
+        android:text="@string/Detail2"
+        android:textColor="#242731"
+        android:textSize="16sp" />
+<TextView
+        android:id="@+id/Detail20"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/Detail20"
+         android:paddingStart="10dp"
+         android:paddingEnd="10dp"
+        android:textColor="#707070"
+        android:textSize="14sp" />
+<TextView
+        android:id="@+id/Detail21"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+         android:paddingStart="10dp"
+         android:paddingEnd="10dp"
+        android:layout_marginTop="10dp"
+        android:text="@string/Detail21"
+        android:textColor="#242731"
+        android:textSize="16sp" />
+<TextView
+        android:id="@+id/Detail22"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/Detail22"
+         android:paddingStart="10dp"
+         android:paddingEnd="10dp"
+        android:textColor="#707070"
+        android:textSize="14sp" />
+<TextView
+        android:id="@+id/Detail23"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+         android:paddingStart="10dp"
+         android:paddingEnd="10dp"
+        android:text="@string/Detail23"
+        android:textColor="#242731"
+        android:textSize="16sp" />
+<TextView
+        android:id="@+id/Detail24"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+         android:paddingStart="10dp"
+         android:paddingEnd="10dp"
+        android:text="@string/Detail24"
+        android:textColor="#242731"
+        android:textSize="16sp" />
+<TextView
+        android:id="@+id/Detail25"
+        android:layout_width="wrap_content"
+         android:paddingStart="10dp"
+         android:paddingEnd="10dp"
+        android:layout_height="wrap_content"
+        android:text="@string/Detail25"
+        android:textColor="#707070"
+        android:textSize="14sp" />
+<TextView
+        android:id="@+id/Detail26"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+         android:paddingStart="10dp"
+         android:paddingEnd="10dp"
+        android:text="@string/Detail26"
+        android:textColor="#242731"
+        android:textSize="16sp" />
+<TextView
+        android:id="@+id/Detail27"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+         android:paddingStart="10dp"
+         android:paddingEnd="10dp"
+        android:text="@string/Detail27"
+        android:textColor="#242731"
+        android:textSize="16sp" />
+<TextView
+        android:id="@+id/Detail28"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+         android:paddingStart="10dp"
+         android:paddingEnd="10dp"
+        android:text="@string/Detail28"
+        android:textColor="#707070"
+        android:textSize="14sp" />
+</LinearLayout>
+</ScrollView>

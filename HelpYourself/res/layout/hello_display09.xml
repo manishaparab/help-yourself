@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="fill_parent">
+<LinearLayout 
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical" 
+      android:background="@drawable/back">
+      <TextView
+        android:id="@+id/Title9"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="110dp"
+        android:layout_marginTop="15dp"
+        android:textColor="#000000"
+          android:textSize="20sp"
+           android:paddingStart="10dp"
+         android:paddingEnd="10dp"
+        android:text="@string/Title9" />
+<TextView
+        android:id="@+id/Detail9"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+         android:paddingStart="10dp"
+         android:paddingEnd="10dp"
+        android:textColor="#242731"
+        android:textSize="16sp"
+        android:text="@string/Detail9" />
+    <TextView
+        android:id="@+id/Titleq0"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+         android:paddingStart="10dp"
+         android:paddingEnd="10dp"
+        android:layout_marginTop="15dp"
+        android:layout_marginLeft="10dp"
+        android:textColor="#242731"
+        android:textSize="18sp"
+        android:text="@string/Titleq0"/>
+ <Button
+        android:id="@+id/button90"
+        style="?android:attr/borderlessButtonStyle"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+         android:paddingStart="10dp"
+         android:paddingEnd="10dp"
+         android:layout_marginBottom="4dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="7dp"
+        android:onClick="onButtonClicked90"
+        android:textSize="16sp"
+        android:text="@string/Q90" />
+<TextView
+        android:id="@+id/textview90"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+         android:paddingStart="10dp"
+         android:paddingEnd="10dp"
+         android:layout_marginBottom="4dp"
+        android:textColor="#707070"
+        android:text="@string/A90"
+        android:textSize="14sp"
+        android:visibility="invisible" />
+    <Button
+        android:id="@+id/button91"
+        style="?android:attr/borderlessButtonStyle"
+        android:layout_width="fill_parent"
+         android:paddingStart="10dp"
+         android:paddingEnd="10dp"
+          android:layout_height="wrap_content"
+         android:layout_marginBottom="4dp"
+        android:layout_marginLeft="-1dp"
+        android:onClick="onButtonClicked91"
+        android:textSize="16sp"
+        android:text="@string/Q91" />
+    <TextView
+        android:id="@+id/textview91"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+         android:paddingStart="10dp"
+         android:paddingEnd="10dp"
+         android:layout_marginBottom="4dp"
+        android:text="@string/A91"
+        android:textColor="#707070"
+        android:textSize="14sp"
+        android:visibility="invisible" />
+    <Button
+        android:id="@+id/button92"
+        style="?android:attr/borderlessButtonStyle"
+         android:paddingStart="10dp"
+         android:paddingEnd="10dp"
+        android:layout_width="fill_parent"
+        android:layout_height="48dp"
+         android:layout_marginBottom="4dp"
+        android:layout_marginLeft="-155dp"
+        android:onClick="onButtonClicked92"
+        android:textSize="16sp"
+        android:text="@string/Q92" />
+    <TextView
+        android:id="@+id/textview92"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+         android:paddingStart="10dp"
+         android:paddingEnd="10dp"
+         android:layout_marginBottom="4dp"
+        android:textColor="#707070"
+        android:text="@string/A92"
+        android:textSize="14sp"
+        android:visibility="invisible" />
+</LinearLayout></ScrollView>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="fill_parent">
+<LinearLayout 
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical" 
+      android:background="@drawable/back">
+<TextView
+        android:id="@+id/Title3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="110dp"
+        android:layout_marginTop="15dp"
+         android:paddingStart="10dp"
+         android:paddingEnd="10dp"
+        android:textColor="#000000"
+        android:textSize="20sp"
+        android:text="@string/Title3" />
+<TextView
+        android:id="@+id/Detail3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+         android:paddingStart="10dp"
+         android:paddingEnd="10dp"
+        android:layout_marginTop="10dp"
+        android:textColor="#242731"
+        android:textSize="16sp"
+        android:text="@string/Detail3" />
+   <TextView
+        android:id="@+id/Titleq0"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+         android:paddingStart="10dp"
+         android:paddingEnd="10dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="10dp"
+        android:text="@string/Titleq0"
+        android:textColor="#242731"
+        android:textSize="18sp"/>
+    <Button
+        android:id="@+id/button30"
+        android:layout_width="fill_parent"
+         android:paddingStart="10dp"
+         android:paddingEnd="10dp"
+         android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+         android:layout_marginBottom="4dp"
+        android:onClick="onButtonClicked30"
+         android:textColor="#242731"
+         android:textSize="16sp"
+        style="?android:attr/borderlessButtonStyle" 
+        android:text="@string/Q30"/>
+    <TextView
+        android:id="@+id/textview30"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+         android:paddingStart="10dp"
+         android:paddingEnd="10dp"
+         android:textColor="#707070"
+          android:layout_marginBottom="4dp"
+         android:text="@string/A30" 
+         android:textSize="14sp"
+        android:visibility="invisible"/>
+  <Button
+        android:id="@+id/button31"
+        style="?android:attr/borderlessButtonStyle"
+        android:layout_width="fill_parent"
+         android:paddingStart="10dp"
+         android:paddingEnd="10dp"
+        android:layout_height="48dp"
+        android:layout_marginBottom="4dp"
+        android:layout_marginLeft="-75dp"
+        android:onClick="onButtonClicked31"
+        android:textSize="16sp"
+        android:text="@string/Q31"
+        android:textColor="#242731" />
+<TextView
+        android:id="@+id/textview31"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+         android:paddingStart="10dp"
+         android:paddingEnd="10dp"
+         android:layout_marginBottom="4dp"
+        android:text="@string/A31" 
+         android:textColor="#707070"
+         android:textSize="14sp"
+        android:visibility="invisible"/>
+</LinearLayout>
+</ScrollView>
